@@ -1,0 +1,23 @@
+body {
+    background-color: azure;
+}
+
+hr {
+    border-style: dotted;
+    border-color: aqua;
+    border-width: 0px;
+    border-top-width: 5px;
+    width: 100px;
+}
+
+h2 {
+    color: cadetblue;
+}
+
+h1 {
+    color: bisque;
+}
+
+div {
+    background-color: cadetblue;
+}
